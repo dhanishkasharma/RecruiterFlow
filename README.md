@@ -1,4 +1,4 @@
-# RecruitAI — AI-Augmented Recruitment Platform
+# RecruiterFlow — AI-Augmented Recruitment Platform
 
 > End-to-end AI-powered screening pipeline: paste a JD, upload CVs, watch candidates scored and ranked in real time, detect bias, and generate tailored interview guides — all in one flow.
 
@@ -44,8 +44,8 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/MohitSAGAR11/Recruitor.git
-cd Recruitor
+https://github.com/dhanishkasharma/RecruiterFlow.git
+cd RecruiterFlow
 
 # Install backend deps
 cd backend && npm install
